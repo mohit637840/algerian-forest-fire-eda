@@ -1,4 +1,6 @@
 # Algerian Forest Fire Data Analysis
+<img width="378" height="251" alt="OIP" src="https://github.com/user-attachments/assets/459bc44f-d75b-4155-975d-2ef03ce56018" />
+
 
 ## Overview
 This project performs data cleaning and exploratory data analysis (EDA) on the Algerian Forest Fires dataset. The dataset contains weather observations and fire indices from two regions: Bejaia and Sidi Bel-Abbes.
