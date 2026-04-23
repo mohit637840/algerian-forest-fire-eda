@@ -1,5 +1,7 @@
 # Algerian Forest Fire Data Analysis
 <img width="378" height="251" alt="OIP" src="https://github.com/user-attachments/assets/459bc44f-d75b-4155-975d-2ef03ce56018" />
+<img width="253" height="251" alt="download" src="https://github.com/user-attachments/assets/af913864-d834-4a0e-b87b-6166aaadb65d" />
+
 
 
 ## Overview
